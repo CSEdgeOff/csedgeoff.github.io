@@ -9,44 +9,38 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: CSEdge Learn # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Discover a treasure trove of knowledge at CSEdge Learn! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Discover a treasure trove of knowledge at CSEdge Learn! Our comprehensive guides and tutorials empower interns with the tools they need to excel in their roles. Simplify your internship journey with our easy-to-follow articles and documentation, unlocking a world of opportunities.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://csedgeoff.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: CSEdgeOfficial # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+#twitter:
+  #username: twitter_username # change to your Twitter username
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: CSEdge
+  email: internship@csedge.courses # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/orgs/CSEdgeOfficial # change to your GitHub homepage
+    - https://www.linkedin.com/company/csedge
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: lnzqpbpjoknDdDMpcJhBthXHLR7jUWtfSXoGHbdpI40
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -59,7 +53,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-76QCJCGDB5
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -98,7 +92,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://csedge.courses/Images/CSEDGELOGO.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
